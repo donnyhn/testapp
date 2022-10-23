@@ -24,7 +24,8 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Mi primer home de la rama donny'),
+      home:
+          const MyHomePage(title: 'Mi primer home de la rama donny en branch'),
     );
   }
 }
